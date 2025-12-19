@@ -1,0 +1,72 @@
+date:1/4/23
+js ki?
+ans.scripting language
+    bringing data from user
+variable ki?
+ans.stores data within variable
+    vary+able=variable(may be).
+
+///////primitive and non-primitive????
+
+string mane rope...
+//variable declare
+just variableName is called variableDeclare.
+...///variable defined
+variableName with variableValue,full declaration is called variableDefined.
+date:1/5/23
+ariarithmatic operation
+space is like a CHARACTER.
+date:1/6/23
+array/////
+block scope???????????????????
+array (-1) means no position,it does not really exit.
+DATE:1/11/23
+while loop : akber e man ta increase korer por then condition a jai.and
+let r kache akber e jai (condition check korer por).
+////print koren man baraben.....it is called iteration.
+loop variable is called (for(let sadi = 0;.......)).
+date:1/12/23
+function - akber-e kaj koraite parben but loop akadikber kaj koraite parben.
+DATE:1/15/23
+split()-array return kore,dulicate value asbe na.
+join(),reverse()
+Date;1/16/23
+Object:api means application programming language.
+date:1/19/23
+tailwind(CSS framework) components diwa thake na.nijhe components create korte hoi.
+material ui ,daisy ui,tailwind elements,flowbite.
+Dom: Document Object Model.
+Date:1/22/23
+difference between html collection and node list
+querry seletor 
+date:1/24/23
+eventListener
+password bd.jobs  na#@12Qw
+password (jamuna bank)
+JA_sa#&
+
+Bachelor of Science				Electronics and Communication Engineering
+						National University
+						Institute of Science and Technology, Dhaka
+						CGPA : 3.44 out of 4.00
+						2020
+
+Higher Secondary Certificate		Science Group
+						Dhaka Board
+						Govt. Science College
+						GPA : 4.25 out of 5.00
+						2015
+
+Secondary School Certificate		Science Group
+						Dhaka Board
+						Motijheel Govt. Boy`s High School
+						GPA : 5.00 out of 5.00
+						2013
+
+Your User ID: PCLYA867
+bat pass: BA12!@_sadi7
+Image_RESIZERhttps://imresizer.com/requirements
+
+12/13/2023.......................
+npm-node package manager
+React component names must always start with a capital letter, while HTML tags must be lowercase.
